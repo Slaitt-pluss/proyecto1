@@ -1,0 +1,12 @@
+{
+  "name": "utn-notificaciones",
+  "version": "1.0.0",
+  "description": "Sistema de notificaciones UTN",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
