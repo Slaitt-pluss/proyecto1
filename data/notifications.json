@@ -1,0 +1,25 @@
+{
+  "notifications": [
+    {
+      "id": 1793769469886,
+      "teacherName": "erika  beatriz",
+      "classroom": "h-201",
+      "message": "[Grupo: ] hola",
+      "timestamp": "11:17:49 p.m."
+    },
+    {
+      "id": 1793765308591,
+      "teacherName": "Carlos Mendoza",
+      "classroom": "h-201",
+      "message": "voy llegando",
+      "timestamp": "10:08:28 p.m."
+    },
+    {
+      "id": 1793763887718,
+      "teacherName": "Carlos Mendoza",
+      "classroom": "h-201",
+      "message": "ya llegue",
+      "timestamp": "9:44:47 p.m."
+    }
+  ]
+}

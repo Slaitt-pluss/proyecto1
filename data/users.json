@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "123",
+      "role": "admin",
+      "name": "Administrador UTN"
+    },
+    {
+      "id": 2,
+      "username": "profesor",
+      "password": "123",
+      "role": "docente",
+      "name": "Carlos Mendoza"
+    },
+    {
+      "nombre": "alan",
+      "appPaterno": "rodriguez",
+      "appMaterno": "zanchez",
+      "name": "alan rodriguez",
+      "role": "alumno",
+      "grupo": "G070701-V",
+      "turno": "Matutino",
+      "username": "alan",
+      "password": "123",
+      "id": 1793766245490
+    },
+    {
+      "nombre": "javier ",
+      "appPaterno": "estrella",
+      "appMaterno": "orta",
+      "name": "javier  estrella",
+      "role": "docente",
+      "grupo": "N/A",
+      "turno": "Vespertino",
+      "username": "javestrella",
+      "password": "123",
+      "id": 1793767884947
+    },
+    {
+      "nombre": "erika ",
+      "appPaterno": "beatriz",
+      "appMaterno": "hernandez",
+      "name": "erika  beatriz",
+      "role": "docente",
+      "grupo": "N/A",
+      "turno": "Vespertino",
+      "username": "erika",
+      "password": "123",
+      "id": 1793768152717
+    },
+    {
+      "nombre": "Omar",
+      "appPaterno": "Alcalá",
+      "appMaterno": "Martinez",
+      "name": "Omar Alcalá",
+      "role": "alumno",
+      "grupo": "G070701-V",
+      "turno": "Matutino",
+      "username": "alumno",
+      "password": "123",
+      "id": 1793768421251
+    },
+    {
+      "nombre": "luna",
+      "appPaterno": "martinez",
+      "appMaterno": "flores",
+      "name": "luna martinez",
+      "role": "alumno",
+      "grupo": "G070701-V",
+      "turno": "Vespertino",
+      "username": "luna",
+      "password": "123",
+      "id": 1793768925052
+    }
+  ]
+}
